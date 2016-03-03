@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ritualeecclesid01churgoog_0217.png"; bbox 0 0 2984 4920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 505 2315 963 2427">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 505 2315 963 2427">
+     <span class='ocr_line' id='line_1_1' title="bbox 689 2315 820 2352; baseline -0.015 0"><span class='ocrx_word' id='word_1_1' title='bbox 689 2315 820 2352; x_wconf 66' lang='lat' dir='ltr'>LONDONss</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 505 2383 963 2427; baseline 0.009 -9"><span class='ocrx_word' id='word_1_2' title='bbox 505 2383 627 2419; x_wconf 79' lang='lat' dir='ltr'>PRINTED</span> <span class='ocrx_word' id='word_1_3' title='bbox 646 2385 679 2420; x_wconf 81' lang='grc' dir='ltr'><strong>ΒΥ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 697 2385 811 2422; x_wconf 74' lang='lat' dir='ltr'><strong>SAMUEL</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 830 2385 963 2427; x_wconf 80' lang='lat' dir='ltr'><strong>BENTLEY,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 603 2440 918 2491">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 603 2440 918 2491">
+     <span class='ocr_line' id='line_1_3' title="bbox 603 2440 918 2491; baseline 0.003 -11"><span class='ocrx_word' id='word_1_6' title='bbox 603 2440 686 2491; x_wconf 65' lang='lat' dir='ltr'><strong>bangor</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 700 2441 843 2488; x_wconf 70' lang='lat' dir='ltr'>H011ae,shoe</span> <span class='ocrx_word' id='word_1_8' title='bbox 855 2442 918 2482; x_wconf 80' lang='lat' dir='ltr'>bane.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1496 4920">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1496 4920">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1496 4920; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1496 4920; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
